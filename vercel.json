@@ -1,0 +1,12 @@
+{
+  "redirects": [
+    { "source": "/who-is-rex-security\\?", "destination": "/#about", "permanent": true },
+    { "source": "/who-is-rex-security", "destination": "/#about", "permanent": true },
+    { "source": "/why-you-need-security", "destination": "/#choose", "permanent": true },
+    { "source": "/services", "destination": "/#services", "permanent": true },
+    { "source": "/get-a-quote", "destination": "/#quote", "permanent": true },
+    { "source": "/schedule-an-event", "destination": "/#quote", "permanent": true },
+    { "source": "/careers", "destination": "/careers.html", "permanent": true },
+    { "source": "/contact-us", "destination": "/#contact", "permanent": true }
+  ]
+}
